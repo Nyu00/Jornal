@@ -11,11 +11,23 @@ body
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: center;
     border: 7px solid #DDD;
     margin: 0 auto;
+
 }
+
+#cabecera
+{
+    background:#33D;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+
 
 #container h1
 {
